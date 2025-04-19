@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gayatrishinde1404/Gayatrishinde1404/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png" alt="Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Gayatri Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
